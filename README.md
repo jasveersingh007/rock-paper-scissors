@@ -26,6 +26,6 @@ python main.py
 
 ## Learning Outcomes
 - Practised Python fundamentals.
-- Improved understanding of conditional statements and loops.
+- Improved understanding of conditional statements.
 - Learned to use Python's random module.
 - Developed a basic interactive game.
