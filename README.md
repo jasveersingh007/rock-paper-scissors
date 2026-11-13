@@ -7,7 +7,6 @@ A simple command-line Rock Paper Scissors game developed using Python.
 - Python
 - Random module
 - Conditional statements
-- Loops
 
 ## Features
 - Allows users to choose Rock, Paper or Scissors.
